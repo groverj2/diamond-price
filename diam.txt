@@ -1,0 +1,13 @@
+Amongst a variety of items that are not quantitatively or statistically valued by buyers, Diamonds are possibly the most valuable. The purchase is far less from rational with a heavy bent on emotional ties. The jewellers would entice every man (and woman) by marketing it as a necessity for the occasion and as a status symbol, and by calling this pricey and unaffordable item as priceless.
+
+https://www.theatlantic.com/international/archive/2015/02/how-an-ad-campaign-invented-the-diamond-engagement-ring/385376/
+https://blog.hubspot.com/marketing/diamond-de-beers-marketing-campaign
+
+The actual value of a diamond however is determined by a gemologist after inspecting its various "features" (let's start using the proper machine learning words now since this article is about predicting diamond price using machine learning) and applying a relativie valuation principle of "compare and price". 
+https://www.diamonds.pro/education/diamond-prices/
+https://beyond4cs.com/
+
+But in recent years, perhaps last 2 decades, the valuation and pricing has become more or less quantitaive i.e. calculations based on values of many features not just limiting to 4Cs (carat, cut, colour, clarity). Features like culet, pavilion, crown, girdle, girdle thickness polish, symetry, flouroscence, table, depth and so on are the most easily identifiable and recordable features while the dimaond is actually cut.
+https://en.wikipedia.org/wiki/Diamond_cutting
+
+Now, lets see how we can bridge the gap between actual retail prices and diamond valuation based on valuation
